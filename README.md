@@ -1,0 +1,1 @@
+Estes exercícios mostram um pouco do trabalho e os aprendizados adquiridos durante matéria de Linguagem de Programação no curso de Análise e Desenvolvimento de Sistemas. O objetivo principal foi proporcionar uma compreensão sólida dos conceitos básicos e avançados da linguagem, com ênfase na resolução de problemas e no desenvolvimento de soluções eficientes
